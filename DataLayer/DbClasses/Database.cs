@@ -9,7 +9,7 @@ namespace Datalayer.DbClasses
         public Database(DbContextOptions<Database> option) : base(option)
         {
         }
-        public DbSet<States> States { get; set; }       
+        public DbSet<States> States { get; set; }
         public DbSet<Zones> Zones { get; set; }
         public DbSet<Pincodes> Pincodes { get; set; }
         public DbSet<Services> Services { get; set; }
