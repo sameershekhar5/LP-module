@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-namespace Datalayer.Data_table
+namespace DataLayer.Data_table
 {
     public partial class States
     {

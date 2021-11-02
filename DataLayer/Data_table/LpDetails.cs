@@ -1,18 +1,20 @@
 ﻿using Microsoft.AspNetCore.Identity;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Datalayer.Data_table
+namespace DataLayer.Data_table
 {
     public class LpDetails:IdentityUser
     {
         public string Name { get; set; }
-        public string Address { get; set; }
+        public string C_Address { get; set; }
         public string Contact_person_name { get; set; }
-        public int MyProperty { get; set; }
+        public string Mobile_no { get; set; }
+        public string B_Address { get; set; }
+        public string Account_no { get; set; }
+        public string Ifsc_code { get; set; }
+        public string Bank_name{ get; set; }
+        public string benifesory_name { get; set; }
+        public string pan { get; set; }
+        public string gst { get; set; }
+
     }
 }

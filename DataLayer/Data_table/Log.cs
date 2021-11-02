@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace DataLayer.Data_table
 {
-    class Log
+   public class Log
     {
+        [Key]
         public int Id { get; set; }
         public string Message { get; set; }
         public string MessageTeplate { get; set; }
