@@ -23,7 +23,6 @@
   </PackageReference>
 </ItemGroup>
 
-
 <ItemGroup>
-  <Folder Include="DBOperations\" />
+  <ProjectReference Include="..\Modellayer\Modellayer.csproj" />
 </ItemGroup></Project>
