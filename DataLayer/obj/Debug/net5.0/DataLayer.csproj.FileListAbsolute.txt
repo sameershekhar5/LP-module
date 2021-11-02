@@ -13,3 +13,39 @@ D:\Logistic\DataLayer\obj\Debug\net5.0\DataLayer.dll
 D:\Logistic\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
 D:\Logistic\DataLayer\obj\Debug\net5.0\DataLayer.pdb
 D:\Logistic\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\DataLayer.dll
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\Modellayer.dll
+E:\Office work\LP module\DataLayer\bin\Debug\net5.0\Modellayer.pdb
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.dll
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+E:\Office work\LP module\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\DataLayer.dll
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\Modellayer.dll
+D:\logistics\LP module\LP module\DataLayer\bin\Debug\net5.0\Modellayer.pdb
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CopyComplete
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.dll
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+D:\logistics\LP module\LP module\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache

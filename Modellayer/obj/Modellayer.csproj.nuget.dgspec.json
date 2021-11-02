@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Logistic\\Modellayer\\Modellayer.csproj": {}
+    "D:\\logistics\\LP module\\LP module\\Modellayer\\Modellayer.csproj": {}
   },
   "projects": {
-    "D:\\Logistic\\Modellayer\\Modellayer.csproj": {
+    "D:\\logistics\\LP module\\LP module\\Modellayer\\Modellayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Logistic\\Modellayer\\Modellayer.csproj",
+        "projectUniqueName": "D:\\logistics\\LP module\\LP module\\Modellayer\\Modellayer.csproj",
         "projectName": "Modellayer",
-        "projectPath": "D:\\Logistic\\Modellayer\\Modellayer.csproj",
+        "projectPath": "D:\\logistics\\LP module\\LP module\\Modellayer\\Modellayer.csproj",
         "packagesPath": "C:\\Users\\samee\\.nuget\\packages\\",
-        "outputPath": "D:\\Logistic\\Modellayer\\obj\\",
+        "outputPath": "D:\\logistics\\LP module\\LP module\\Modellayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
